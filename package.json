@@ -1,6 +1,6 @@
 {
   "name": "default-token-list",
-  "version": "2.19.3",
+  "version": "2.20.3",
   "description": "◦ The JustLiquidity default token list",
   "main": "build/tokens.json",
   "scripts": {
