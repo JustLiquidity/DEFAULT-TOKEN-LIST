@@ -809,4 +809,13 @@
     "chainId": 56,
     "logoURI": "https://tokens.julswap.com/images/0xAe1119B918f971F232FED504D48604D5FeF7277F.png"
   }
+  ,
+  {
+    "name": "DeimosToken",
+    "address": "0xb80a8edd3730d82a941a1cdd7547e843fd5ca65c",
+    "symbol": "DIO",
+    "decimals": 8,
+    "chainId": 56,
+    "logoURI": "https://tokens.julswap.com/images/0xb80a8edd3730d82a941a1cdd7547e843fd5ca65c.png"
+  }
 ]
