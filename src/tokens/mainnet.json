@@ -1,5 +1,16 @@
 [
-  {
+  
+
+{
+    "name": "HORA OS",
+    "address": "0xa6fd7b5c9eee30309b00b65436a284e2053251e5",
+    "symbol": "HORA",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://github.com/HoraOS/LOGO/raw/main/logo.png"
+  },
+
+{
     "name": "Wrapped BNB",
     "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
     "symbol": "WBNB",
